@@ -1,149 +1,184 @@
 {
     "Consultant_details" :[
     {
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
       "doj": "24th November",
       "endDate":"6th June"
     },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
       "doj": "24th November",
       "endDate":"6th June"
     },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
-      "doj": "24th November",
-      "endDate":"6th June"
-    },{
-      "consultantName":"Alaska",
-      "accManager":61.3850,
-      "visaStatus":-152.2683,
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
       "doj": "24th November",
       "endDate":"6th June"
     }
-   ]
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+,{
+      "consultantName":"Saddi Divya",
+      "accManager":"Vasudev Karasi",
+      "visaStatus":"H1-B,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+    ]
 }
