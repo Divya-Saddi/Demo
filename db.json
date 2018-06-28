@@ -1,69 +1,149 @@
-{ "userData":{"name":"divya"}, 
-"locationData":[
-  {
-    "state":"Alaska",
-    "latitude":61.3850,
-    "longitude":-152.2683
-  },
-  {
-    "state":"Rhode Island",
-    "latitude":41.6772,
-    "longitude":-71.5101
-  },
-  {
-    "state":"South Carolina",
-    "latitude":33.8191,
-    "longitude":-80.9066
-  },
-  {
-    "state":"South Dakota",
-    "latitude":44.2853,
-    "longitude":-99.4632
-  },
-  {
-    "state":"Tennessee",
-    "latitude":35.7449,
-    "longitude":-86.7489
-  },
-  {
-    "state":"Texas",
-    "latitude":31.1060,
-    "longitude":-97.6475
-  },
-  {
-    "state":"Utah",
-    "latitude":40.1135,
-    "longitude":-111.8535
-  },
-  {
-    "state":"Virginia",
-    "latitude":37.7680,
-    "longitude":-78.2057
-  },
-  {
-    "state":"Vermont",
-    "latitude":44.0407,
-    "longitude":-72.7093
-  },
-  {
-    "state":"Washington",
-    "latitude":47.3917,
-    "longitude":-121.5708
-  },
-  {
-    "state":"Wisconsin",
-    "latitude":44.2563,
-    "longitude":-89.6385
-  },
-  {
-    "state":"West Virginia",
-    "latitude":38.4680,
-    "longitude":-80.9696
-  },
-  {
-    "state":"Wyoming",
-    "latitude":42.7475,
-    "longitude":-107.2085
-  }
-]
+{
+    "Consultant_details" :[
+    {
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    },{
+      "consultantName":"Alaska",
+      "accManager":61.3850,
+      "visaStatus":-152.2683,
+      "doj": "24th November",
+      "endDate":"6th June"
+    }
+   ]
 }
